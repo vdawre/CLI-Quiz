@@ -24,6 +24,14 @@ var questions = [{
 {
   question: "Where is my hometown?",
   answer: "indore"
+},
+{
+  question: "What is my favourite movie?",
+  answer: "interstellar"
+},
+{
+  question: "What is my nationality?",
+  answer: "indian"
 }];
 
 function welcome() {
